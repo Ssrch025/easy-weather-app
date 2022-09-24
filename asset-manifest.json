@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/easy-weather-app/static/css/main.4f38c79f.css",
+    "main.js": "/easy-weather-app/static/js/main.0dfe927a.js",
+    "static/media/clear.jpg": "/easy-weather-app/static/media/clear.b0d2f60194599c698140.jpg",
+    "static/media/base.jpg": "/easy-weather-app/static/media/base.11c8104c36c4985ac0d1.jpg",
+    "static/media/rain.jpg": "/easy-weather-app/static/media/rain.57aa65bd5796df657dea.jpg",
+    "static/media/clouds.jpg": "/easy-weather-app/static/media/clouds.94bb160d59e8c91ac42a.jpg",
+    "index.html": "/easy-weather-app/index.html",
+    "main.4f38c79f.css.map": "/easy-weather-app/static/css/main.4f38c79f.css.map",
+    "main.0dfe927a.js.map": "/easy-weather-app/static/js/main.0dfe927a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f38c79f.css",
+    "static/js/main.0dfe927a.js"
+  ]
+}
